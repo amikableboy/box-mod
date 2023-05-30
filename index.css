@@ -21,6 +21,8 @@ body {
   height: 100px;
   text-align: center;
   float: right;
+  position: relative;
+  top: 620px;
 }
 .two {
   background-color: green;
