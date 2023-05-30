@@ -4,6 +4,12 @@ body {
   box-sizing: border-box;
   font-size: 40px;
 }
+.container {
+  width: 1000px;
+  height: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
 .one {
   background-color: red;
   border: 30px solid;
@@ -30,3 +36,4 @@ body {
   text-align: center;
   position: absolute;
 }
+
