@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 40px;
+}
+.one {
+  background-color: red;
+  border: 30px solid;
+  border-color: blue;
+  margin-bottom: 60px;
+  margin-left: 60px;
+  padding: 10px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+.two {
+  background-color: green;
+  border: 30px solid;
+  border-color: yellow;
+  margin: 0;
+  padding: 10px;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 60px;
+  margin-left: 60px;
+  text-align: center;
+}
