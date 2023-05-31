@@ -8,32 +8,29 @@ body {
   width: 1000px;
   height: 800px;
   margin: 50% auto 50%;
+  position: relative;
 }
 .one {
   background-color: red;
-  border: 30px solid;
+  margin: 0;
+  border: 27px solid;
   border-color: blue;
-  margin-top: 0;
-  margin-bottom: 60px;
-  margin-left: 60px;
   padding: 10px;
   width: 100px;
   height: 100px;
   text-align: center;
-  float: right;
-  position: relative;
-  top: 620px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
 }
 .two {
   background-color: green;
-  border: 30px solid;
-  border-color: yellow;
   margin: 0;
+  border: 27px solid;
+  border-color: yellow;
   padding: 10px;
   width: 100px;
   height: 100px;
-  margin-bottom: 60px;
-  margin-left: 0;
   text-align: center;
   position: absolute;
 }
